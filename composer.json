@@ -1,5 +1,5 @@
 {
-  "name": "basecom/akeneo-rules-ui",
+  "name": "JoshuaAkeneo/akeneo-rulesUI",
   "type": "symfony-bundle",
   "description": "This bundle provides an UI for the Akeneo enterprise rules feature",
   "homepage": "https://www.basecom.de",
