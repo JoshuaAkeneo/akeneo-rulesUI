@@ -26,10 +26,9 @@
       "email": "info@basecom.de"
     }
   ],
-  "minimum-stability": "dev",
   "require": {
     "php": ">=7.0.0",
-    "akeneo/pim-enterprise-dev": "3.1.*"
+    "akeneo/pim-enterprise-dev": "3.*"
   },
   "autoload": {
     "psr-0": {
