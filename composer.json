@@ -30,7 +30,6 @@
     "php": ">=7.0.0",
     "akeneo/pim-enterprise-dev": "3.*"
   },
-  "minimum-stability": "stable",
   "autoload": {
     "psr-0": {
       "Basecom\\Bundle\\RulesEngineBundle": ""
