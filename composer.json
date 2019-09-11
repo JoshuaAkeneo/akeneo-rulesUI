@@ -28,7 +28,8 @@
   ],
   "require": {
     "php": ">=7.0.0",
-    "akeneo/pim-enterprise-dev": "3.*"
+    "akeneo/pim-enterprise-dev": "3.*",
+    "minimum-stability": "dev"
   },
   "autoload": {
     "psr-0": {
