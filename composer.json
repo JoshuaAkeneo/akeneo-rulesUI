@@ -26,6 +26,9 @@
       "email": "info@basecom.de"
     }
   ],
+  "require": {
+  "akeneo/pim-community-dev": "^3.2"
+  },
   "autoload": {
     "psr-0": {
       "Basecom\\Bundle\\RulesEngineBundle": ""
